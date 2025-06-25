@@ -1,0 +1,19 @@
+.custom-header {
+  background-color: #1c193e;
+  color: white;
+}
+
+.header-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.header-subtext a {
+  color: #ffffffcc;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.header-subtext a:hover {
+  text-decoration: underline;
+}

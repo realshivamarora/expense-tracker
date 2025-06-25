@@ -1,0 +1,26 @@
+.footer {
+  background-color: #1c193e;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+  font-family: Arial, sans-serif;
+}
+
+.footer-line {
+  font-size: 1rem;
+}
+
+.heart {
+  color: red;
+}
+
+.footer-link {
+  margin-top: 0.3rem;
+  color: #ffc107;
+  font-weight: bold;
+}
+
+.footer-link a {
+  color: #ffc107;
+  text-decoration: underline;
+}
