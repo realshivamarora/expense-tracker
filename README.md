@@ -1,4 +1,4 @@
-# 💸 Expense Tracker Application
+![image](https://github.com/user-attachments/assets/08eb30ae-ccd6-4226-8064-b5ff5fc8beb4)![image](https://github.com/user-attachments/assets/087eafe5-b10d-4272-9ac6-209dcf98e13a)# 💸 Expense Tracker Application
 
 > A full-stack web application to manage and visualize your expenses smartly.
 
@@ -12,6 +12,20 @@
 ---
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/d96fb537-16af-482f-9809-a70881ff7988)
+![image](https://github.com/user-attachments/assets/22794d32-e899-4f80-8d8d-79ef1a1cdc94)
+![image](https://github.com/user-attachments/assets/ee958bfe-dda7-4e7b-b8f7-5d209d2c40ca)
+![image](https://github.com/user-attachments/assets/8d18602b-c3c0-491d-9951-c16d0fcfd48c)
+![image](https://github.com/user-attachments/assets/68da7811-e3a1-42f8-8eae-95d17b0d3192)
+![image](https://github.com/user-attachments/assets/95f13001-1211-4675-9b61-c9a456c3d114)
+![image](https://github.com/user-attachments/assets/037d5879-1e4f-478e-b695-4b35d5ab4508)
+![image](https://github.com/user-attachments/assets/92e9204f-e630-40bb-9ba0-2848b1e92c29)
+![image](https://github.com/user-attachments/assets/ad34c6e1-dcb1-4722-b595-6d4481e2a3bf)
+![image](https://github.com/user-attachments/assets/057d8177-dced-45e7-91e6-bb3cd08570f6)
+![image](https://github.com/user-attachments/assets/bc9fb17b-0d06-4a40-ba05-1d281d4cd9ca)
+![image](https://github.com/user-attachments/assets/1aa0e5e2-cfd8-4e23-8843-9d4d427fb6e2)
+![image](https://github.com/user-attachments/assets/969b9154-9bfa-4a1b-b7d8-ec048581ee9e)
+![image](https://github.com/user-attachments/assets/1b464066-6634-4cbf-abc8-5c089c3de2c8)
 
 ---
 
